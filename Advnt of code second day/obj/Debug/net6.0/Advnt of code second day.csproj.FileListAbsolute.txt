@@ -1,0 +1,15 @@
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\bin\Debug\net6.0\Advnt of code second day.exe
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\bin\Debug\net6.0\Advnt of code second day.deps.json
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\bin\Debug\net6.0\Advnt of code second day.runtimeconfig.json
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\bin\Debug\net6.0\Advnt of code second day.dll
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\bin\Debug\net6.0\Advnt of code second day.pdb
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.csproj.AssemblyReference.cache
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.AssemblyInfoInputs.cache
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.AssemblyInfo.cs
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.csproj.CoreCompileInputs.cache
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.dll
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\refint\Advnt of code second day.dll
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.pdb
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\Advnt of code second day.genruntimeconfig.cache
+C:\Users\anda\source\repos\Advnt of code second day\Advnt of code second day\obj\Debug\net6.0\ref\Advnt of code second day.dll

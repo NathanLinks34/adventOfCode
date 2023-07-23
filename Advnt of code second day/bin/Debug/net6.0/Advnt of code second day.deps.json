@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Advnt of code second day/1.0.0": {
+        "runtime": {
+          "Advnt of code second day.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advnt of code second day/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
